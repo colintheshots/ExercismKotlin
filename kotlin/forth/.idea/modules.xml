@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/forth.iml" filepath="$PROJECT_DIR$/forth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forth_main.iml" filepath="$PROJECT_DIR$/.idea/modules/forth_main.iml" group="forth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forth_test.iml" filepath="$PROJECT_DIR$/.idea/modules/forth_test.iml" group="forth" />
+    </modules>
+  </component>
+</project>
